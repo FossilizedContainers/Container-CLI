@@ -11,4 +11,7 @@ $ python clickLibrary.py hello-world
 
 # create a detached container that returns hello world
 $ python clickLibrary.py detached-hello
+
+# start an http server
+$ python clickLibrary.py http-server files/ http-server
 ```
